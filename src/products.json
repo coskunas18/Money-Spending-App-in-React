@@ -1,0 +1,45 @@
+[
+    {
+        "id":1,
+        "title":"Sakız",
+        "price":2,
+        "image":"https://i0.wp.com/bimarket.co.uk/wp-content/uploads/2021/01/falim_damla.jpeg?fit=%2C&ssl=1"
+    },
+    {
+        "id":2,
+        "title":"1.5 lt Coca Cola",
+        "price":15,
+        "image":"https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/8010903/8010903-0a6547-1650x1650.jpg"
+    },
+    {
+        "id":3,
+        "title":"Cips",
+        "price":9,
+        "image":"https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/5082036/5082036-fe9022-1650x1650.jpg"
+    },
+    {
+        "id":4,
+        "title":"Kıyafet",
+        "price":350,
+        "image":"https://dfcdn.defacto.com.tr/7/S6804A2_20WN_RD79_01_01.jpg"
+    },
+    {
+        "id":5,
+        "title":"Ayakkabı",
+        "price":400,
+        "image":"https://floimages.mncdn.com/media/catalog/product/21-11/15/yazkis-kadin-siyah-uzun-keten-spor-ayakkabi-7331-1636983824.JPG"
+    },
+    {
+        "id":6,
+        "title":"Tek kişilik akşam yemeği",
+        "price":120,
+        "image":"https://image.shutterstock.com/image-vector/vector-illustration-roasted-turkey-on-260nw-757076389.jpg"
+    },
+    {
+        "id":7,
+        "title":"Araba (Alabilirsen :D)",
+        "price":850000,
+        "image":"https://i4.hurimg.com/i/hurriyet/75/750x422/5f71aaccc03c0e2e28cc237d.jpg"
+      
+    }
+]
